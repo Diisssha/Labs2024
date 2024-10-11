@@ -162,5 +162,3 @@ NAME       CPU %     MEM USAGE / LIMIT     NET I/O
 mymongo    0.60%     97.81MiB / 9.176GiB   946B / 0B
 apache24   0.01%     43.77MiB / 9.176GiB   3.26MB / 6.97MB
 ```
-
-5/6.
