@@ -16,3 +16,6 @@ mv docker-scout ~/.docker/cli-plugins/
 ```
 docker scout quickview
 ```
+
+
+
